@@ -1,2 +1,2 @@
 # BMICH-Booking-Management-System
-Python-based BMICH booking management system
+Python-based booking and billing system using data structures and algorithms.
